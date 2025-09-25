@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nextbilionaire
+- 👋 Hi, I’m @Mukavane
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
